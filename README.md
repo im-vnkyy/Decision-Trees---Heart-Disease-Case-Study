@@ -1,1 +1,1 @@
-# Prediction of risk of having Heart disease - Classification problem
+# Prediction of having Heart disease to the patients - Classification problem
